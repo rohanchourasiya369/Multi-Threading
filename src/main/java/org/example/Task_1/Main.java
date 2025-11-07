@@ -25,8 +25,8 @@ class Main {
            }
        });
 
-       number.setName("NumberThread");
-       alphabet.setName("AlphabetThread");
+       //number.setName("NumberThread");
+       //alphabet.setName("AlphabetThread");
 
        number.setPriority(Thread.MAX_PRIORITY);
        alphabet.setPriority(Thread.MIN_PRIORITY);
