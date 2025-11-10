@@ -1,4 +1,4 @@
-package org.example.Task_1;
+package Task_1;
 
 class Main {
    public static void main(String[] args) {

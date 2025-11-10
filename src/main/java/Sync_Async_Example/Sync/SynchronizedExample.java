@@ -1,4 +1,4 @@
-package More_Task.Sync;
+package Sync_Async_Example.Sync;
 
 public class SynchronizedExample {
     static void main(String[] args) throws InterruptedException {

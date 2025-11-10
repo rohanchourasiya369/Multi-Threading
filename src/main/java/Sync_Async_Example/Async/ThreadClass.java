@@ -1,4 +1,4 @@
-package More_Task.Async;
+package Sync_Async_Example.Async;
 
 public class ThreadClass {
     static void main(String[] args) {
